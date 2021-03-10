@@ -1,2 +1,2 @@
 # Deep-Learning
- This my Deep Learning Repository
+ This is my Deep Learning Repository
